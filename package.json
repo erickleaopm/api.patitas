@@ -1,0 +1,20 @@
+{
+  "name": "api.patitas",
+  "version": "1.0.0",
+  "description": "API Rest on Firebase to the project 'Patitas'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erickleaopm/api.patitas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erickleaopm/api.patitas/issues"
+  },
+  "homepage": "https://github.com/erickleaopm/api.patitas#readme"
+}
